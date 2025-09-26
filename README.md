@@ -72,9 +72,12 @@ Eğitim süreci sonunda elde edilen en iyi modelin (Dropout=0.3) performans graf
 
 <img width="1182" height="578" alt="image" src="https://github.com/user-attachments/assets/ba0c4bdb-c7ec-49d5-bfde-c7a4d25cc4d6" />
 
-İlk Model (Dropout=0.5): Grafiğe baktığımızda, en yüksek doğrulama doğruluğu (turuncu çizgi) yaklaşık %83-84 seviyelerine ulaşıyor.
+Aşırı Öğrenme (Overfitting):
+Grafiklerdeki en dikkat çekici nokta, modelde belirgin bir aşırı öğrenme olmasıdır. Bunu birkaç yerden anlıyoruz:
 
-Yeni Model (Dropout=0.3): Yeni grafikte ise doğrulama doğruluğu bariz bir şekilde daha yüksek. Sonlara doğru %86'nın üzerine çıkmış görünüyor.
+Doğruluk Grafiği (Sol): Eğitim (mavi) ve doğrulama (turuncu) çizgileri arasında belirgin bir "makas" var. Model, eğitim verilerinde çok başarılıyken (%95), daha önce görmediği doğrulama verilerinde daha düşük bir başarı (%86) sergiliyor.
+
+Kayıp Grafiği (Sağ): Eğitim kaybı istikrarlı bir şekilde düşerken, doğrulama kaybı (turuncu çizgi) çok daha yukarıda ve dalgalı bir seyir izliyor. Bu durum, modelin eğitim setini bir miktar "ezberlediğini" ancak bu ezberi yeni verilere tam olarak genellemekte zorlandığını gösterir.
 
 ---
 
