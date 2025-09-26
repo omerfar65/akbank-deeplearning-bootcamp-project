@@ -72,11 +72,9 @@ Eğitim süreci sonunda elde edilen en iyi modelin (Dropout=0.3) performans graf
 
 <img width="1182" height="578" alt="image" src="https://github.com/user-attachments/assets/ba0c4bdb-c7ec-49d5-bfde-c7a4d25cc4d6" />
 
+İlk Model (Dropout=0.5): Grafiğe baktığımızda, en yüksek doğrulama doğruluğu (turuncu çizgi) yaklaşık %83-84 seviyelerine ulaşıyor.
 
-* **Eğitim Başarımı (Training Accuracy):** Model, eğitim verisetini **~%94**'ün üzerinde bir başarıyla öğrenmiştir.
-* **Doğrulama Başarımı (Validation Accuracy):** Model, daha önce görmediği doğrulama verilerinde **~%86**'lık bir başarı göstermiştir.
-* İki sonuç arasındaki fark, modelde hala bir miktar **aşırı öğrenme (overfitting)** olduğunu göstermektedir. Ancak yapılan hiperparametre optimizasyonu, bu durumu ilk modele göre iyileştirmiştir.
-
+Yeni Model (Dropout=0.3): Yeni grafikte ise doğrulama doğruluğu bariz bir şekilde daha yüksek. Sonlara doğru %86'nın üzerine çıkmış görünüyor.
 
 ---
 
