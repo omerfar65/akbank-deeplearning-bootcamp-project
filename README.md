@@ -6,7 +6,9 @@ Bu proje, Akbank Derin Öğrenme Bootcamp'i kapsamında gerçekleştirilmiş olu
 
 Projenin tüm kodlarını ve detaylı analizlerini içeren Kaggle Notebook'una aşağıdaki linkten ulaşabilirsiniz:
 
-**[Proje Notebook'u]([https://www.kaggle.com/code/merfarukarl/beyintumorus-n-fland-rmaprojesi])**
+**[Proje Notebook'u](https://www.kaggle.com/code/merfarukarl/beyintumorus-n-fland-rmaprojesi)**
+
+---
 
 ## 1. Projenin Amacı
 
