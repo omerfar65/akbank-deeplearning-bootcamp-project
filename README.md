@@ -77,11 +77,6 @@ Eğitim süreci sonunda elde edilen en iyi modelin (Dropout=0.3) performans graf
 * **Doğrulama Başarımı (Validation Accuracy):** Model, daha önce görmediği doğrulama verilerinde **~%86**'lık bir başarı göstermiştir.
 * İki sonuç arasındaki fark, modelde hala bir miktar **aşırı öğrenme (overfitting)** olduğunu göstermektedir. Ancak yapılan hiperparametre optimizasyonu, bu durumu ilk modele göre iyileştirmiştir.
 
-#### Tek Resimle Test (Grad-CAM ile Yorumlama)
-
-Eğitilmiş modelin, daha önce görmediği hasarlı bir resmi doğru bir şekilde "meningioma" olarak sınıflandırdığı ve bu kararı verirken tam olarak tümörün olduğu bölgeye odaklandığı Grad-CAM ile kanıtlanmıştır.
-
-**[BURAYA_GRAD-CAM_GÖRSELİNİZİ_EKLEYİN]**
 
 ---
 
