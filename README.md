@@ -2,11 +2,11 @@
 
 Bu proje, Akbank Derin Öğrenme Bootcamp'i kapsamında gerçekleştirilmiş olup, MR görüntülerinden yararlanarak beyin tümörü türlerini sınıflandıran bir derin öğrenme modelinin geliştirilmesini içermektedir.
 
-## 5. Kaggle Notebook Linki
+## Kaggle Notebook Linki
 
 Projenin tüm kodlarını ve detaylı analizlerini içeren Kaggle Notebook'una aşağıdaki linkten ulaşabilirsiniz:
 
-**[Proje Notebook'u](https://www.kaggle.com/code/merfarukarl/beyintumorus-n-fland-rmaprojesi)**
+**[Proje Notebook'u]([https://www.kaggle.com/code/merfarukarl/beyintumorus-n-fland-rmaprojesi](https://www.kaggle.com/code/merfarukarl/beyintumorus-n-fland-rmaprojesi))**
 
 ## 1. Projenin Amacı
 
