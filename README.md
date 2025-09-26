@@ -16,6 +16,7 @@ Bu proje, Akbank Derin Öğrenme Bootcamp final projesi olarak geliştirilmişti
 ### 🚀 Canlı Kaggle Not Defteri
 
 Bu projenin tüm adımlarını, kodlarını ve detaylı analizlerini içeren final notebook'una **[buradan](https://www.kaggle.com/code/merfarukarl/beyintumorus-n-fland-rmaprojesi)** ulaşabilirsiniz.
+> **Önemli Not:** Kaggle'da yaşanan teknik aksaklıklardan dolayı, yukarıdaki linkte bulunan notebook projenin son halini tam olarak yansıtmamaktadır. Projenin tamamen çalışır ve güncel versiyonuna bu repoda bulunan `beyintumorus-n-fland-rmaprojesi.ipynb` dosyasından ulaşabilirsiniz.
 
 ---
 
